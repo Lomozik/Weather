@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="time">Time: %1$s</string>
+    <string name="temp_c">Temp: %1$s°C</string>
+    <string name="condition">Condition: %1$s</string>
+    <string name="loading_forecast">Loading forecast...</string>
+    <string name="_3_day_forecast">3-Day Forecast</string>
+    <string name="date">Date: %1$s</string>
+    <string name="min_c">Min: %1$s°C</string>
+    <string name="max_c">Max: %1$s°C</string>
+    <string name="wind_kph">Wind: %1$s kph</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+</resources>
